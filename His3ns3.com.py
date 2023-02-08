@@ -4,7 +4,7 @@ def compound_interest(
     number_of_compounding_periods: int,
 ) -> float:
     """
-    test@his3ns3.com
+    test0@his3ns3.com
     >>> compound_interest(10000.0, 0.05, 3)
     1576.2500000000014
     >>> compound_interest(10000.0, 0.05, 1)
